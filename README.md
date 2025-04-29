@@ -1,4 +1,4 @@
-# Run-Melinda-Run-
+# Run-Melinda-Run
 "MyFirstGame" de 2023, o que tá mais para "MySecondGame"
 Aluno: Victor Mateus Ramos de Jesus.
 Projeto: My First Game 2023/1
